@@ -1,27 +1,64 @@
-export API_KEY=***REMOVED***SyDaWIaMbgUvg0JfrDADbmbfLe9az6er4ss
-export task_2_file_name="synthesize-text.txt"
-export task_3_request_file="speech_request_fr.json"
-export task_3_response_file="speech_response_fr.json"
-export task_4_sentence="これは日本語です。"
-export task_4_file="translated_response.txt"
-export task_5_sentence="Este%é%japonês"
-export task_5_file="detection_response.txt"
+# 📊 Code Alpha Internship Tasks
 
-export API_KEY=***REMOVED***SyAemN8tgOmU9_6ctsLCfBfRT4GOhjv-Yxk
-export task_2_file_name="synthesize-text.txt"
-export task_3_request_file="speech_request.json"
-export task_3_response_file="response.json"
-export task_4_sentence="これは日本語です。"
-export task_4_file="translated_response.txt"
-export task_5_sentence="Este%é%japonês."
-export task_5_file="detection_response.txt"
+Welcome to my **Code Alpha Internship** repository! This repository includes three Machine Learning/Data Analysis projects I completed as part of the internship. Each project demonstrates core concepts in data preprocessing, exploratory data analysis, model training, and evaluation using Python.
+
+---
+
+## 🔧 Tools & Libraries Used
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 📁 Project Overview
+
+### ✅ 1. Car Price Prediction 🚗
+
+**Objective:** Predict the price of a car based on features such as engine size, horsepower, mileage, brand, etc.
+
+**Techniques Used:**
+- Linear Regression
+- Random Forest Regressor
+- Feature encoding using `get_dummies`
+- Model evaluation (R², RMSE)
+ 
+📄 Notebook: `car_price_prediction.ipynb`
+
+---
+
+### ✅ 2. Sales Prediction 📈
+
+**Objective:** Predict sales based on advertising budgets spent on TV, radio, and newspapers.
+
+**Techniques Used:**
+- Linear Regression & Random Forest
+- Correlation Analysis
+- Model comparison using performance metrics
+
+ 
+📄 Notebook: `sales_prediction.ipynb`
+
+---
+
+### ✅ 3. Unemployment in India 📉
+
+**Objective:** Analyze and visualize the unemployment rate in India over time.
+
+**Techniques Used:**
+- Time series visualization
+- Regional analysis
+- Heatmaps, line plots, bar charts
+- Data storytelling
+
+ 
+📄 Notebook: `unemployment_analysis.ipynb`
+
+---
 
 
-export CONTAINER=product_inspection
-export FILE_1=defective_product.json 
-export FILE_2=non_defective_product.json
 
-export ZONE=us-east1-d
-
-export API_KEY=***REMOVED***SyCpO4EN9ZvLnbMo4mCHFBLpZ1BLwbr010E
 
